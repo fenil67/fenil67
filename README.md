@@ -48,8 +48,8 @@ Don't want to read a static PDF? I built a **RAG Chatbot** that knows my entire 
 
 ### 📊 GitHub Stats
 <div align="left">
-  <img src="https://github-readme-stats-git-main-fenil67s-projects.vercel.app/api?username=fenil67&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="Fenil's Stats" />
-  <img src="https://github-readme-stats-git-main-fenil67s-projects.vercel.app/api/top-langs/?username=fenil67&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
+  <img src="https://pfenilj.vercel.app/api?username=fenil67&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="Fenil's Stats" />
+  <img src="https://pfenilj.vercel.app/api/top-langs/?username=fenil67&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
 </div>
 
 ---
