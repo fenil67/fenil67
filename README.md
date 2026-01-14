@@ -41,7 +41,7 @@ Don't want to read a static PDF? I built a **RAG Chatbot** that knows my entire 
 | :--- | :--- | :--- |
 | **[AutoAnalyst AI](https://github.com/fenil67/AutoAnalyst-AI)** | 🤖 **Autonomous BI Agent** that prevents hallucinations by executing secure Python code in an E2B sandbox. Generates "McKinsey-style" PDF reports. | `LangChain` `E2B` `FastAPI` `React` |
 | **[Market Data Service](https://github.com/fenil67/market-data-service)** | 📈 **High-Throughput Fintech Pipeline** handling real-time price streaming. Implements producer-consumer pattern for Moving Average calcs. | `Apache Kafka` `Redis` `Docker` `PostgreSQL` |
-| **[SmartHomes](https://github.com/fenil67/smarthomes)** | 🏠 **Hybrid DB E-Commerce Platform**. Handles transactional orders (SQL) and unstructured reviews (MongoDB) with RBAC dashboards. | `MySQL` `MongoDB` `Node.js` `React` |
+| **[SmartHomes](https://github.com/fenil67/Smart-Home)** | 🏠 **Hybrid DB E-Commerce Platform**. Handles transactional orders (SQL) and unstructured reviews (MongoDB) with RBAC dashboards. | `MySQL` `MongoDB` `Node.js` `React` |
 | **[CorpBrain: AI Data Scanner](https://github.com/fenil67/ai-data-scanner)** | 🧠 **"Chat with your Data" Platform**. RAG pipeline that chunks and indexes raw CSV/PDFs for natural language querying. | `Streamlit` `RAG` `Vector DB` |
 
 ---
